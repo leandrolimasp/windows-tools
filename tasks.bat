@@ -21,7 +21,7 @@ echo            TASKS MENU
 echo  ==================================
 echo  ===  1. Control Panel         === 
 echo  ===  2. Disk Cleanning        ===
-echo  ===  3. Task Manager	        ===
+echo  ===  3. Task Manager          ===
 echo  ===  4. Turn off the Computer ===
 echo  ===  5. Restart the Computer  ===
 echo  ===  6. Exit                  === 
